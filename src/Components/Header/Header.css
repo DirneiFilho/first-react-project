@@ -1,0 +1,19 @@
+* {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.cartImage {
+  width: 100px;
+  height: 100px;
+}
+
+.btn-remover {
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.btn-remover:hover {
+  filter: contrast(10%);
+  transition: all 1s;
+}
